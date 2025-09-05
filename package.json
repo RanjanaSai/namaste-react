@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanjanaSai/namaste-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanjanaSai/namaste-react/issues"
+  },
+  "homepage": "https://github.com/RanjanaSai/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
